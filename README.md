@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
-- 🌱 I’m currently learning **Flutter And Firebase**
+- 🌱 I’m currently learning **AWS And DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
